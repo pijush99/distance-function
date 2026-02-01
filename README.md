@@ -5,7 +5,7 @@ Distance Function is a Java-based cloud function that calculates the nearest mai
 
 🛠️ Technologies Used
 
-Java 11
+Java 
 
 Google Cloud Functions Framework
 
@@ -78,7 +78,7 @@ Scales automatically using Google Cloud Run
 
 🔑 Prerequisites
 
-Java 11
+Java
 
 Maven
 
