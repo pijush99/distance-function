@@ -23,7 +23,7 @@ SLF4J (logging)
 nearest-road-distance
 │
 ├── pom.xml
-├── src/main/java/com/example/functions
+├── src/main/java/functions
 │   ├── Background.java
 │   ├── Function.java
 │   ├── LocationRequest.java
